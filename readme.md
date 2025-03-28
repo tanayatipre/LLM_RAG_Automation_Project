@@ -155,6 +155,37 @@ Response:
 ##  Screenshots 
 
 Below are sample screenshots for reference:
+### Initial Loaded Page
+![WhatsApp Image 2025-03-28 at 11 17 43_3004c560](https://github.com/user-attachments/assets/4d7e1208-d3a3-45cb-a91d-54da772ba92f)
+
+### Docs Page
+![WhatsApp Image 2025-03-28 at 11 19 02_d1711589](https://github.com/user-attachments/assets/89bf30aa-a5a5-4600-88db-9e55020070c2)
+
+## Examples
+
+### 1. get_current_datetime
+#### /register part
+![WhatsApp Image 2025-03-28 at 17 36 15_20eb3ba0](https://github.com/user-attachments/assets/7f7fa541-6439-43b4-af3f-1e1dbbe4327a)
+![WhatsApp Image 2025-03-28 at 17 36 46_8c8692e9](https://github.com/user-attachments/assets/f66ce0de-ba19-481e-b50f-ef06219e6e3a)
+
+#### /execute part
+![WhatsApp Image 2025-03-28 at 17 39 32_8b72735c](https://github.com/user-attachments/assets/d7e589c1-6ac4-4c2f-aada-649f95ca509a)
+![WhatsApp Image 2025-03-28 at 17 39 57_e28c88e3](https://github.com/user-attachments/assets/3a5ef1e5-b65c-4af6-a920-a4701da37437)
+
+#### The code generated in the /execute part is run, and it generates the desired output:
+![WhatsApp Image 2025-03-28 at 17 40 43_35fd09c7](https://github.com/user-attachments/assets/feb98659-bfce-4a92-9e73-e8940377e87b)
+
+### 2. Launch Notepad
+#### /register part
+![WhatsApp Image 2025-03-28 at 19 39 03_495e601d](https://github.com/user-attachments/assets/a3fc9733-0c91-498f-966f-a230b38e8f72)
+![WhatsApp Image 2025-03-28 at 19 39 23_c629cec3](https://github.com/user-attachments/assets/bba605f2-46fe-41a1-a6fc-3e6c8d2d38e6)
+
+#### /execute part
+![WhatsApp Image 2025-03-28 at 19 39 53_741d42ef](https://github.com/user-attachments/assets/6d892f52-f91a-4afd-ab4c-e5122a79f5fb)
+![WhatsApp Image 2025-03-28 at 19 40 13_43541b2d](https://github.com/user-attachments/assets/d1f9b850-1a01-499b-9eed-966e0c47e6de)
+
+#### Generated code is run, and it opens the Notepad:
+![WhatsApp Image 2025-03-28 at 19 42 21_7f568d4b](https://github.com/user-attachments/assets/11364be6-f27c-4bf6-abbe-cb730bba983c)
 
 ---
 
